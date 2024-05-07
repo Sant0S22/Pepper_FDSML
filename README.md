@@ -41,7 +41,7 @@ I contributi a questo progetto sono benvenuti. Si prega di seguire le linee guid
 ![Corridoio](/img/Corridoio.png)
 *Immagine del corridoio sul quale abbiamo eseguito il nostro esperimento*
 
-![Mappa](/img/Mappa.png)
+![Mappa](/img/mappa.png)
 *Mappa generata dal robot Pepper dell'ambiente*
 
 ![Architettura](/img/Architettura.png)
